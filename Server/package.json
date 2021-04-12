@@ -1,0 +1,15 @@
+{
+  "name": "mediocremapperserver",
+  "version": "1.0.0",
+  "description": "Server for Mediocre Mapper Multi-Mapper",
+  "main": "server.js",
+  "scripts": {
+    "test": "start",
+    "start": "node server.js"
+  },
+  "author": "squeaksies",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
